@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gabriel Mariano - Wikipédia</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      color: #222;
+      margin: 0;
+      padding: 20px;
+    }
+    header {
+      text-align: center;
+      padding-bottom: 20px;
+    }
+    h1 {
+      font-size: 2.5rem;
+      color: #000;
+    }
+    .infobox {
+      float: right;
+      width: 300px;
+      border: 1px solid #aaa;
+      background-color: #f5f5f5;
+      padding: 10px;
+      margin: 0 0 20px 20px;
+    }
+    .infobox h2 {
+      text-align: center;
+      margin: 0 0 10px;
+    }
+    section {
+      margin-bottom: 30px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Gabriel Mariano</h1>
+    <p><strong>Atacante histórico brasileiro | 1.339 gols | Lenda do futebol</strong></p>
+  </header>
+
+  <div class="infobox">
+    <h2>Dados pessoais</h2>
+    <p><strong>Nome completo:</strong> Gabriel Mariano</p>
+    <p><strong>Data de nascimento:</strong> 1987</p>
+    <p><strong>País:</strong> Brasil</p>
+    <p><strong>Posição:</strong> Atacante (ATA)</p>
+    <p><strong>Status:</strong> Aposentado</p>
+    <p><strong>Último clube:</strong> Corinthians</p>
+  </div>
+
+  <section>
+    <h2>Carreira</h2>
+    <p>Gabriel Mariano teve uma das carreiras mais lendárias do futebol. Passou por clubes da Arábia Saudita, Nova Zelândia, Espanha e Brasil, sendo o maior artilheiro da história com 1.339 gols em 1.562 jogos.</p>
+  </section>
+
+  <section>
+    <h2>Clubes por onde passou</h2>
+    <ul>
+      <li>Al Ahli (Arábia Saudita)</li>
+      <li>Al Nassr (Arábia Saudita)</li>
+      <li>Auckland City (Nova Zelândia)</li>
+      <li>FC Andorra (Espanha)</li>
+      <li>Las Palmas (Espanha)</li>
+      <li>Corinthians (Brasil)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Títulos principais</h2>
+    <ul>
+      <li>9x Campeão do Brasileirão</li>
+      <li>8x Copa do Brasil</li>
+      <li>6x Campeonato Paulista</li>
+      <li>4x Copa Libertadores</li>
+      <li>1x Copa Sul-Americana</li>
+      <li>1x Mundial de Clubes</li>
+      <li>2x Saudi League</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Prêmios individuais</h2>
+    <p>Gabriel foi artilheiro de todas as competições por onde passou, além de ter sido eleito atacante do time do ano por 20 temporadas diferentes.</p>
+  </section>
+
+  <section>
+    <h2>Legado</h2>
+    <p>Considerado o maior goleador da história do futebol, Gabriel Mariano deixou um legado eterno com sua dedicação, talento e liderança em campo.</p>
+  </section>
+
+</body>
+</html>
